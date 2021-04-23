@@ -13,4 +13,8 @@ It contains a agent based model program created in python. In it the agents move
 [Model](https://github.com/gy20kejt/python/blob/main/src/unpackaged/abm/model.py)
 
 
-There are other files availble within the repository that are archives created while progressing through the practicals.
+There are other files availble within the [repository](https://github.com/gy20kejt/python) that are archives created while progressing through the practicals.
+
+### License
+
+This model is licensed under the MIT License.
