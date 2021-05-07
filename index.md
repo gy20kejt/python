@@ -13,7 +13,7 @@ It contains an agent based model program created in python. In it the agents mov
 [Model](https://github.com/gy20kejt/python/blob/main/src/unpackaged/abm/model.py)
 
 
-There are other files availble within the [repository](https://github.com/gy20kejt/python) that are archives created while progressing through the practicals.
+There are other files available within the [repository](https://github.com/gy20kejt/python) that are archives created while progressing through the practical lessons.
 
 ### License
 
